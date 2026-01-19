@@ -1,39 +1,41 @@
-# 🔬 LiberLab
+# LiberLab 
 
-> **Le futur de l'apprentissage libre et interactif.**
-
-Bienvenue sur **LiberLab**, une plateforme dédiée au partage de connaissances, principalement axée sur les mathématiques et les sciences. L'idée, c'est de rendre les concepts complexes accessibles à tous, avec une approche moderne et fluide.
+**LiberLab** est un site que j'ai créé pour partager des réflexions sur des sujets qui me passionnent, mais aussi avec l'intention d'aider les gens en leur offrants des outils variés (catégorie projet).
 
 ---
 
-## 🚀 Le Projet
-
-LiberLab est né de l'envie de créer un espace où le savoir n'est pas juste stocké, mais vivant. Que tu sois lycéen en Terminale Spé Maths ou juste curieux, tu trouveras ici des ressources pour masteriser tes sujets.
-
-### Pourquoi LiberLab ?
-* **Libre** : Parce que le savoir doit être accessible sans barrières.
-* **Interactif** : Des concepts expliqués simplement, sans blabla inutile.
-* **Moderne** : Une interface propre pour se concentrer sur l'essentiel.
+### Pourquoi ce nom ?
+* **Liber** : Liber veut dire libre en latin, mais aussi libre, ce qui est stylé.
+* **Lab** : Tout ça est un peu une expérience donc je sais pas...
 
 ---
 
-### 📝 Le Blog & Pensées
+## Le Blog
 
-Plus qu'un simple site de ressources, **LiberLab** intègre une partie blog. C'est mon espace perso où je pose tout ce qui me passionne.
-
-* **Partage d'idées** : Je discute ici de tech, de science ou de philo, sans filtre.
-* **Agenda Personnel** : C’est avant tout mon journal de bord public où je documente mon parcours et mes réflexions.
-* **Open Mind** : L'idée est de garder une trace de mes découvertes tout en les partageant avec ceux que ça intéresse.
+C'est la partie la plus vivante du projet. C'est basiquement mon cerveau mis à plat. 
+* **Mes Idées** : Je parle de ce que j'aime (Tech, Science, Philo...) sans filtre et sans langue de bois.
+* **Mon Parcours** : C'est mon agenda personnel. Je documente mes avancées, mes échecs et mes réflexions du moment.
+* **Partage Brut** : Pas besoin de fioritures, si je trouve un truc cool, je le balance ici.
 
 ---
 
-## 📬 Contact
+## La Partie Projets
 
-Tu as une question, une suggestion ou tu veux juste discuter de maths ?
-N'hésite pas à me contacter :
+Tu peux toujours vérifier les états des projets actuel sur le site, mais actuellement voici ce qui est prévu :
+
+- La <<bible des lycéens>> : essentiellement, c'est un ouvrage écris par moi-même, qui aura pour but d'aider les lycéens (surtout Tl) en spé math. à comprendre les différents chapitre au programme (2025-2026). Cet idée est né d'un besoin car j'ai toujours été passionné par les mathématiques mais la façon dont on l'enseigne à l'école, érigé par l'éducation national, m'a toujours mis dans une situation où les leçons ne me stimulait pas, qui concluer sur des mauvaises notes aux contrôles.
+
+- Un forum sur le site.
+
+- Une chaîne Youtube.
+
+---
+
+## On discute ?
+
+Si tu veux échanger sur un article, me corriger sur une équation ou juste parler de projets :
 
 📧 **Mail** : [contact@liberlab.org](mailto:contact@liberlab.org)
-🌐 **Site web** : [https://liberlab.org](https://liberlab.org)
+🌐 **Direct** : [liberlab.org](https://liberlab.org)
 
 ---
-*Fait avec ❤️ par un passionné de sciences.*
