@@ -23,7 +23,7 @@ C'est la partie la plus vivante du projet. C'est basiquement mon cerveau mis à 
 
 Tu peux toujours vérifier les états des projets actuel sur le site, mais actuellement voici ce qui est prévu :
 
-- La <<bible des lycéens>> : essentiellement, c'est un ouvrage écris par moi-même, qui aura pour but d'aider les lycéens (surtout Tl) en spé math. à comprendre les différents chapitre au programme (2025-2026). Cet idée est né d'un besoin car j'ai toujours été passionné par les mathématiques mais la façon dont on l'enseigne à l'école, érigé par l'éducation national, m'a toujours mis dans une situation où les leçons ne me stimulait pas, qui concluer sur des mauvaises notes aux contrôles.
+- La <<bible des lycéens>> : essentiellement, c'est un ouvrage écris par moi-même, qui aura pour but d'aider les lycéens (surtout Tl) en spé math. à comprendre les différents chapitre au programme (2025-2026). Cette idée est née d'un besoin: j'ai toujours été passionné par les mathématiques mais la façon dont on l'enseigne à l'école, érigé par l'éducation national, m'a toujours mis dans une situation où les leçons ne me stimulait pas, qui concluer sur des mauvaises notes aux contrôles.
 
 - Un forum sur le site.
 
